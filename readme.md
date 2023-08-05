@@ -1,1 +1,2 @@
-#Server of mambarterdotcom
+#Server of GymFriday
+
